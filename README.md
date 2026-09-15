@@ -1,4 +1,5 @@
 # AWS S3 Static Website Hosting — The Café Project ☕
+<img width="1920" height="877" alt="3" src="https://github.com/user-attachments/assets/f85e3664-e596-482a-b3ce-c017a38a1248" />
 
 A hands-on project demonstrating how to host a static website on **Amazon S3**
 with **IP-restricted access control**, provisioned using the **AWS CLI** and
@@ -48,6 +49,8 @@ static site assets, and validating the access-control behavior.
    - Loading the site successfully from the allow-listed IP
    - Confirming an `AccessDenied` response via `curl` from a different
      network/IP
+<img width="1920" height="933" alt="4" src="https://github.com/user-attachments/assets/a622f861-5af5-436c-8cb4-2873fc5c001d" />
+
 
 ## 📂 Repo Structure
 
